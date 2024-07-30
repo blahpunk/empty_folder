@@ -15,7 +15,7 @@ python empty_folder.py <path1> <path2> ... -ext1 -ext2 ...
 ### Example
 
 ```sh
-python empty_folder.py P:\utorrent\incomplete\Search.Party.S02.1080p.WEBRip.DDP5.1.x264-NiXON[rartv]\0jT5skIo -txt -nfo -exe
+python empty_folder.py P:\Path\DataStore_5\0jT5skIo -txt -nfo -exe
 ```
 
 This command will recursively delete `.txt`, `.nfo`, and `.exe` files and then remove empty folders within the directory `0jT5skIo`.
